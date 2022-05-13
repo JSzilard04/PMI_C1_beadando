@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Persons>
+    <Workers>
+        <Worker age="32" hiredDate="1649971756684" isFired="false" name="Anita" post="TEACHER"/>
+        <Worker age="27" hiredDate="1649971771059" isFired="false" name="Gábor" post="SECRETARY"/>
+        <Worker age="45" hiredDate="1649971789706" isFired="false" name="Ildikó" post="PRINCIPAL"/>
+        <Worker age="34" hiredDate="1650014264035" isFired="true" name="Krisztián" post="TEACHER"/>
+        <Worker age="37" hiredDate="1650014264035" isFired="false" name="Ilona" post="TEACHER"/>
+    </Workers>
+    <Students>
+        <Student age="15" className="6/a" hiredDate="1649971821035" isFired="false" name="Benedek"/>
+        <Student age="17" className="7/a" hiredDate="1649971845578" isFired="false" name="Róbert"/>
+        <Student age="18" className="7/b" hiredDate="1649971845578" isFired="false" name="Bence"/>
+        <Student age="18" className="7/b" hiredDate="1649971845578" isFired="false" name="Arnold"/>
+        <Student age="17" className="6/b" hiredDate="1649971845578" isFired="false" name="Fanni"/>
+    </Students>
+</Persons>
