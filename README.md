@@ -1,5 +1,7 @@
 Oktatás (Nyilvántartó program)
+
 A program célja
+
 Nyílvántartja egy oktatási intézmény dolgozóit és diákjait amely 3 különböző dolgozót képes kezelni,
 
 PRINCIPAL -> Igazgató
